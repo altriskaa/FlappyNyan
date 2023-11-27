@@ -1,5 +1,5 @@
 # Flappy Nyan
-Hands On 2 and ETS Pemrograman Web D
+Hands On 2 and ETS Pemrograman Web F
 | Nama               |  NRP       | 
 |--------------------|-------------|
 | Altriska Izzati Khairunnisa Hermawan | 5025211187  |   
